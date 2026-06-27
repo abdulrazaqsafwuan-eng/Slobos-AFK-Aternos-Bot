@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "GoatSMP21.aternos.me",
-    "port": 223672,
+    "port": 23672,
     "version": "",
     "try-creative": false
   },
