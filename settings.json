@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GoatSMP21.aternos.me",
-    "port": 23672,
+    "ip": "GoatSMP21.aternos.me:23672",
+    "port": ,
     "version": "",
     "try-creative": false
   },
