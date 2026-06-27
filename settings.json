@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "TeachnoBlade_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "GoatSMP21.aternos.me:23672",
-    "port": ,
+    "port": 23672,
     "version": "",
     "try-creative": false
   },
